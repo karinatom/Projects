@@ -1,0 +1,3 @@
+[submodule "ML-сервис/lyrics-generator"]
+	path = ML-сервис/lyrics-generator
+	url = https://github.com/dlebech/lyrics-generator
