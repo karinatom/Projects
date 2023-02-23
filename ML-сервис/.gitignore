@@ -61,3 +61,4 @@ venv.bak/
 # User-defined
 .vscode/
 .idea
+.idea/
