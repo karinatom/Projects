@@ -60,5 +60,4 @@ venv.bak/
 
 # User-defined
 .vscode/
-data/
-export/
+.idea

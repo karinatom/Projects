@@ -12,6 +12,9 @@
 ```
 pip install -r requirements.txt
 ```
+
+Скачать `glove.6B.50d.txt` по ссылке: https://www.kaggle.com/datasets/watts2/glove6b50dtxt и положить в папку `data`
+
 Потом добавить ваш токен в `TG_bot_v3.py` и можно запускать)
 
 Можно заменить датасет и обучить новую модель, чтобы всё работало в нём должно быть две колонки:
